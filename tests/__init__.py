@@ -1,0 +1,1 @@
+# Tests package for the Mergington High School Activity Management API
